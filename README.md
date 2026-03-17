@@ -1,4 +1,4 @@
-# Solución: Conectarse a los servidores de Mortal Kombat 11 (Steam / PC)
+# Solución: Cómo conectarse a los servidores de Mortal Kombat 11 (Steam / PC)
 
 # Fix: Mortal Kombat 11 Server Connection Error (Steam / PC)
 
